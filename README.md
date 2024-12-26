@@ -66,8 +66,8 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ---
 
 ### 📌 Repositórios Destacados
-![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=nome-do-repositorio-1&theme=dark)
-![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=nome-do-repositorio-2&theme=dark)
+![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=geste-movie&theme=dark)
+![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=desafio-amigo-secreto&theme=dark)
 
 ---
 
