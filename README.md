@@ -70,10 +70,9 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ![Repositório 4](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=php-usuario-desafio-tecnico&theme=dark)
 
 ---
-
+<!--
 ### 🐍 Cobra de Contribuições
-![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg)
-
+ ![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg) -->
 ---
 
 ## 📫 Conecte-se Comigo
