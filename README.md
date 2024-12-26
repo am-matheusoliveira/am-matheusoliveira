@@ -9,7 +9,6 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 - 📫 Entre em contato comigo: **mateusoliveira427@gmail.com**
 
 ---
-### Desenvolvimento Backend
 ## 🛠️ Habilidades e Ferramentas
 
 ### Desenvolvimento Backend
