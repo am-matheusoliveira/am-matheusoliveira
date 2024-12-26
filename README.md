@@ -47,6 +47,35 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=matheuspereira&show_icons=true&theme=dark)
 
+
+## 📊 Minhas Estatísticas do GitHub
+
+### 📈 Estatísticas Gerais
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=am-matheusoliveira&show_icons=true&theme=dark&count_private=true)
+
+---
+
+### 📚 Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=am-matheusoliveira&layout=compact&theme=dark)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=am-matheusoliveira&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+### 📌 Repositórios Destacados
+![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=nome-do-repositorio-1&theme=dark)
+![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=nome-do-repositorio-2&theme=dark)
+
+---
+
+### 🐍 Cobra de Contribuições
+![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ---
 
 ## 📫 Conecte-se Comigo
