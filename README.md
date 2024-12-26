@@ -72,9 +72,9 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ---
 <!--
 ### 🐍 Cobra de Contribuições
- ![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg) -->
+ ![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg) 
 ---
-
+-->
 ## 📫 Conecte-se Comigo
 <kbd> <a href="https://www.linkedin.com/in/am-matheusoliveira" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </kbd>
 <kbd> <a href="mailto:mateusoliveira427@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </kbd>
