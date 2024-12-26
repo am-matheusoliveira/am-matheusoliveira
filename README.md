@@ -13,7 +13,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ## 🛠️ Habilidades e Ferramentas
 
 ### Desenvolvimento Backend
-<a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
+<a href="url"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="auto" width="200" style="border-radius:50%"></a>
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
