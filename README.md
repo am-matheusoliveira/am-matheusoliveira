@@ -44,10 +44,6 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de Matheus](https://github-readme-stats.vercel.app/api?username=matheuspereira&show_icons=true&theme=dark)
-
-
 ## 📊 Minhas Estatísticas do GitHub
 
 ### 📈 Estatísticas Gerais
