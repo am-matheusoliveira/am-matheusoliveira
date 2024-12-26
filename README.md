@@ -69,7 +69,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=teste-pratico-mercado-livre&theme=dark)
 ![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=desafio-api-restful&theme=dark)
 ![Repositório 3](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=desafio-estrategia-wms&theme=dark)
-![Repositório 4](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=openweather-app&theme=dark)
+![Repositório 4](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=php-usuario-desafio-tecnico&theme=dark)
 
 ---
 
