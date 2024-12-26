@@ -1,7 +1,7 @@
 # Olá 👋, eu sou Matheus Pereira
 
 ## 🚀 Sobre Mim
-Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com ampla experiência na criação de aplicações web escaláveis e robustas. Também possuo conhecimento básico em tecnologias de frontend, o que me permite entregar soluções completas.
+Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com ampla experiência na criação de aplicações web escaláveis e robustas. Também possuo conhecimento em tecnologias de frontend, o que me permite entregar soluções completas.
 
 - 🔭 Atualmente, estou trabalhando em **integrações com marketplaces** e **soluções empresariais**.
 - 🌱 Estou aprendendo mais sobre **serviços avançados da AWS** e **Vue.js**.
