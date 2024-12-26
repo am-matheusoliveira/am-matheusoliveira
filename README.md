@@ -37,7 +37,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 <kbd> <img src="https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </kbd>
-<kbd> <img src="https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=blue" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=blue" /> </kbd>
 
 ### Controle de Versão
 <kbd> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </kbd>
