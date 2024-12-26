@@ -74,8 +74,6 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ### 🐍 Cobra de Contribuições
 ![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg)
 
-
-
 ---
 
 ## 📫 Conecte-se Comigo
