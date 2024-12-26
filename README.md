@@ -17,7 +17,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 
 ### Desenvolvimento Backend
 
-<kbd> <img src="https://raw.githubusercontent.com/YOURLS/YOURLS/1.7.9/images/yourls-logo.png" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </kbd>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
