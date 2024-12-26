@@ -25,7 +25,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 <kbd> <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /> </kbd>
 
-### Frontend Básico
+### Desenvolvimento Frontend
 <kbd> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </kbd>
