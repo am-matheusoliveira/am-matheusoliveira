@@ -13,7 +13,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ## 🛠️ Habilidades e Ferramentas
 
 ### Desenvolvimento Backend
-<a href="url"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="auto" width="200" style="border-radius:50%"></a>
+<a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="border-radius: 5px"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="auto" width="200" style="border-radius: 5px"></a>
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
