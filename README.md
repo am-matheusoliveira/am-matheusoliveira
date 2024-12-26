@@ -41,7 +41,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ### Controle de Versão
 <kbd> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </kbd>
 <kbd> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </kbd>
-<kbd> <img src="https://img.shields.io/badge/Gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=orange" /> </kbd>
 
 ---
 
