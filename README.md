@@ -55,7 +55,7 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 ---
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=am-matheusoliveira&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=am-matheusoliveira&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ---
 
