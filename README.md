@@ -42,35 +42,6 @@ Sou um **Desenvolvedor Web** especializado em **Desenvolvimento Backend**, com a
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
-### 📈 Estatísticas Gerais
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=am-matheusoliveira&show_icons=true&theme=dark&count_private=true)
-
----
-
-### 📚 Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=am-matheusoliveira&layout=compact&theme=dark)
-
----
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=am-matheusoliveira&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
----
-
-### 📌 Repositórios Destacados
-![Repositório 2](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=teste-pratico-mercado-livre&theme=dark)
-![Repositório 1](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=desafio-api-restful&theme=dark)
-![Repositório 3](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=openweather-app&theme=dark)
-![Repositório 4](https://github-readme-stats.vercel.app/api/pin/?username=am-matheusoliveira&repo=php-usuario-desafio-tecnico&theme=dark)
-
----
-<!--
-### 🐍 Cobra de Contribuições
- ![Cobra de Contribuições](https://github.com/am-matheusoliveira/am-matheusoliveira/blob/output/github-contribution-grid-snake.svg) 
----
--->
 ## 📫 Conecte-se Comigo
 <kbd> <a href="https://www.linkedin.com/in/am-matheusoliveira" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </kbd>
 <kbd> <a href="mailto:mateusoliveira427@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </kbd>
